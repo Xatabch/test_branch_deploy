@@ -1,0 +1,23 @@
+{
+  "name": "test_branch_deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xatabch/test_branch_deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xatabch/test_branch_deploy/issues"
+  },
+  "homepage": "https://github.com/Xatabch/test_branch_deploy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
